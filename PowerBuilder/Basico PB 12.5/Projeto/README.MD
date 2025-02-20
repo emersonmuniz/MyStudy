@@ -24,3 +24,7 @@ Neste projeto será utilizado um caso de uso já em operação, somente não est
 
 Fique à vontade para contribuir, sugerir melhorias ou até mesmo criar um fork para seu próprio projeto
 
+- - -
+
+*Mais detalhes sobre o projeto serão acrescentados com a evolução do mesmo.*
+
