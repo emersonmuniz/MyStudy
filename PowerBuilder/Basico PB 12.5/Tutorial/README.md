@@ -14,6 +14,13 @@
 
 ## Criando um Workspace
 
+![Criando o Workspace](./Imagens/100-Criando%20o%20Workspace.png)
+
+
+![Criando o Workspace](./Imagens/101-Criando%20o%20Workspace.png)
+
+
+
 
 - - -
 
