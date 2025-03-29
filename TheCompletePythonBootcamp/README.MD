@@ -272,6 +272,6 @@ print('The result was {r:3.2f}'.format(r=x))
 name = 'Emerson'
 age = 51
 print("Hello, my name is {name} and I'm {age} years old")
-# Output: Hello, my name is {name} and I'm {age} years old
+# Output: Hello, my name is Emerson and I'm 51 years old
 
 ```
