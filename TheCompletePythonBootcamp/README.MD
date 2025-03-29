@@ -237,5 +237,41 @@ Print Formatting:
 ```python
 'Insert another string using brackets: {}'.format(' Just it' )
 # Output: 'Insert another string using brackets:  Just it'
-```
 
+# Number is number, string is string
+3 + 3
+# Output: 6
+'3' + '3'
+# Output: 33
+
+# Formating in sequence
+print('Emerson likes {}, {} and {}.'.format('beer', 'whiskey', 'barbecue'))
+# Output: Emerson likes beer, whiskey and barbecue.
+
+# Formating using position. First position 0.
+print('Emerson likes {2}, {0} and {1}.'.format('beer', 'whiskey', 'barbecue'))
+# Output: Emerson likes barbecue, beer and whiskey.
+
+# Using name object instead sequence number.
+print('Emerson likes {c}, {b} and {b}.'.format(a='beer', b='whiskey', c='barbecue'))
+# Output: Emerson likes barbecue, whiskey and whiskey.
+# Yah.. I prefer Whiskey ;)
+
+# Float formating
+x = 1000/700
+print('The result was {}'.format(x))
+# Result: The result was 1.4285714285714286
+print('The result was {r:1.3f}'.format(r=x))
+# Output: The result was 1.429
+print('The result was {r:10.3f}'.format(r=x))
+# Output: The result was      1.429
+print('The result was {r:3.2f}'.format(r=x))
+# Output: The result was 1.43
+	
+# Using variables
+name = 'Emerson'
+age = 51
+print("Hello, my name is {name} and I'm {age} years old")
+# Output: Hello, my name is {name} and I'm {age} years old
+
+```
