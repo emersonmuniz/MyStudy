@@ -1,2 +1,2 @@
 # MyStudy
-My Studies ( Courses )
+
